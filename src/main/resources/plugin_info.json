@@ -1,0 +1,9 @@
+{
+  "name": "OldElytraFlight",
+  "version": "${version}",
+  "authors": [ "Bluecross" ],
+  "description": "Elytra flight for 2b2t.org.ru",
+  "url": "-",
+  "min_api_version": "3.2",
+  "main_class": "OldElytraFlightPlugin"
+}
